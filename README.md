@@ -1,5 +1,5 @@
 # Receptboken
-Thesis about Kubernetes and Google Kubernetes Engine in form off a recipe book.
+Thesis about Kubernetes and Google Kubernetes Engine in form off a collaborative cookbook with suggestions based on what you have in the fridge.
 
 url: http://34.91.128.48 *(Swedish)*
 
