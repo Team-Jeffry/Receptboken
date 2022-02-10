@@ -1,9 +1,9 @@
 # Receptboken
-Examensarbete och teknisk fördjupning om Kubernetes och Google Kubernetes Engine i form av en receptbokstjänst.
+Thesis about Kubernetes and Google Kubernetes Engine in form off a recipe book.
 
 url: http://34.91.128.48 *(Swedish)*
 
-*Se API dokumentation i receptboken-dokumentation för API endpoints*
+*See API documentation in receptboken-dokumentation for API endpoints*
 
 <br>
 <br>
