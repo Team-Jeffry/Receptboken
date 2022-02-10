@@ -3,7 +3,7 @@ Examensarbete och teknisk fördjupning om Kubernetes och Google Kubernetes Engin
 
 url: http://34.91.128.48 *(Swedish)*
 
-*See API docs in documentation for API endpoints*
+*Se API dokumentation i receptboken-dokumentation för API endpoints*
 
 <br>
 <br>
