@@ -1,0 +1,12 @@
+[submodule "receptboken-dokumentation"]
+	path = receptboken-dokumentation
+	url = https://github.com/Team-Jeffry/receptboken-dokumentation.git
+[submodule "receptboken-frontend"]
+	path = receptboken-frontend
+	url = https://github.com/Team-Jeffry/receptboken-frontend.git
+[submodule "receptboken-backend"]
+	path = receptboken-backend
+	url = https://github.com/Team-Jeffry/receptboken-backend.git
+[submodule "receptboken-deployment"]
+	path = receptboken-deployment
+	url = https://github.com/Team-Jeffry/receptboken-deployment.git
